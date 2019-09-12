@@ -1,0 +1,179 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  sh
+    5  exit
+    6  man firefox
+    7  echo $0
+    8  uname
+    9  man umane
+   10  man uname
+   11  uname -a
+   12  whoami
+   13  who
+   14  where
+   15  whereis 
+   16  whereis user
+   17  pwd
+   18  ls
+   19  ls -l
+   20  ls -a
+   21  ls -al
+   22  cd
+   23  ls -la
+   24  pwd
+   25  cd .
+   26  pwd
+   27  cd ..
+   28  pwd
+   29  ls
+   30  ls -la
+   31  cd sc
+   32  cd ..
+   33  cd.
+   34  cd .
+   35  cd user
+   36  cd ..
+   37  cd /
+   38  cd ~
+   39  pwd
+   40  cd /
+   41  cd user
+   42  cd home/
+   43  cd user/
+   44  cd /
+   45  ls -la
+   46  cd ~
+   47  cd ~/documents
+   48  cd /
+   49  cd ~
+   50  cd ~/Documents/
+   51  cd
+   52  cd /
+   53  cd
+   54  sh
+   55  ps -aux |grep "sh"
+   56  ps -aux | grep "sh"
+   57  exit
+   58  CD /
+   59  cd /
+   60  cd ~
+   61  cd /
+   62  mkdir Manamape
+   63  cd ~
+   64  pwd
+   65  ls
+   66  mkdir ManS
+   67  ls
+   68  ls -l
+   69  cd ManS
+   70  ls -a -l
+   71  cd ..
+   72  rmdir ManS/
+   73  ls -a
+   74  ls
+   75  history
+   76  history > history_20190912.txt
+   77  /ls
+   78  ls
+   79  cat history_20190912.txt 
+   80  unaem
+   81  uname
+   82  uname -a
+   83  history
+   84  history
+   85  Firefox &
+   86  firefox &
+   87  history
+   88  history
+   89  ls
+   90  touch aaa.txt
+   91  ls
+   92  ls -l
+   93  firefox &
+   94  cat aaa.txt
+   95  cat bbb.txt
+   96  echo Pirmais teksts > aaa.txt
+   97  cat aaa.txt 
+   98  ls -l aaa.txt 
+   99  echo Otrais texts > aaa.txt 
+  100  cat aaa.txt 
+  101  echo Pirmais teksts > aaa.txt
+  102  echo Otrais texts >> aaa.txt 
+  103  cat aaa.txt 
+  104  ls
+  105  ls -l
+  106  nano aaa.txt 
+  107  ls -l aaa.txt 
+  108  cat aaa.txt 
+  109  nano aaa.txt 
+  110  cp aaa.txt bbb.txt
+  111  cat bbb.txt 
+  112  cd /
+  113  pwd
+  114  mv ~/aaa.txt ~/Documents/ccc.txt
+  115  ls
+  116  cd
+  117  ls -l
+  118  ls -l Documents/
+  119  cat Documents/ccc.txt 
+  120  pwd
+  121  mv ./Documents/ccc.txt ddd.txt
+  122  ls -l
+  123  mkdir Mans
+  124  mv *.txt Mans/
+  125  ls -l Mans/
+  126  ls
+  127  ls -l
+  128  ls -al
+  129  cd Mans/
+  130  ls
+  131  rm bbb.txt 
+  132  ls
+  133  cd ..
+  134  rmdir Mans/
+  135  rmdir Mans/ 2
+  136  man rmdir
+  137  rm Mans/
+  138  rm -fr Mans/
+  139  ls
+  140  ls -l
+  141  nano Mans.sh
+  142  ls-l
+  143  ls -l
+  144  Mans.sh
+  145  echo $PATH
+  146  ls /bin | grep ls
+  147  ls -l /bin/ls
+  148  cat /bin/ls
+  149  ls -l /bin/ls
+  150  ~/Mans.sh
+  151  ls
+  152  echo $PATH
+  153  $PATH=$PATH:~
+  154  $PATH=$PATH/:~
+  155  $PATH=$PATH:/~
+  156  PATH=$PATH:~/
+  157  echo $PATH
+  158  Mans.sh
+  159  sudo Mans.sh
+  160  ls
+  161  ls -l
+  162  chmod 740 Mans.sh 
+  163  ls
+  164  Mans.sh 
+  165  ls
+  166  cd ManAAAA/
+  167  ls
+  168  cat fff.txt 
+  169  cd
+  170  ls
+  171  cd 
+  172  cd ManAAAA/
+  173  ls
+  174  cat fff.txt 
+  175  cd
+  176  Mans.sh 
+  177  ls -l
+  178  history
+  179  history > historyFuk.txt
