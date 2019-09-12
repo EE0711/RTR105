@@ -19,3 +19,13 @@ ctrl+l              notīrīt
 ctrl+shift+T        new tab  
 man                 uzzināt -par funkciju  
 
+New LESSON     
+touch               Izveidot tukšu txt/failu  
+cat                 dokumenta saturs  
+nano                atveert editoru  
+cp                  copy  
+mv                  move  
+rm                  remove  rm -fr (pilna mape)
+echo $PATH          parbaudit celjus  
+PATH=$PATH:~/       izveidot jaunu celju
+chmod               rwxrwxrwx izmainjas 1/0 katrā tikai pieraksta 111/100/000 buus 740 
