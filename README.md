@@ -5,6 +5,7 @@ ls                  kas te ir
 ls -la              viss kas te ir
 ls -l               nedaudz sīkāk(pa vidu tiem 2)
 cd                  kur iet?
+cd ~                uz teiksim sākumu     cd 
 mkdir               make directory
 rmdir               remove directory
 whoami              kas es esmu
