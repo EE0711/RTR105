@@ -18,4 +18,4 @@ ps -aux | grep "?"  meklēt
 ctrl+l              notīrīt  
 ctrl+shift+T        new tab  
 man                 uzzināt -par funkciju  
- 
+
