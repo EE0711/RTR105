@@ -1,5 +1,5 @@
 # RTR105
-RTU datormāciba pamatkurss
+RTU datormāciba pamatkurss    
 pwd                 kur esmu?  
 ls                  kas te ir  
 ls -la              viss kas te ir  
