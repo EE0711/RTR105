@@ -13,6 +13,7 @@ uname               system name/      uname -a   info par system
 firefox &           palaist netu nenobeidzot ctrl+alt+t
 history             komandu vēsture
 sh                  a lesser dash
+echo $0             ar ko strādāju sh vai bash? vai ko citu
 ps -aux | grep "?"  meklēt 
 ctrl+l              notīrīt
 ctrl+shift+T        new tab
