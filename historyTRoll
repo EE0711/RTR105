@@ -1,0 +1,111 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clone https://github.com/EE0711/RTR105
+    5  ls -l
+    6  cd RTR105/
+    7  pwd
+    8  ls-l
+    9  ls -l
+   10  crdir
+   11  nano git-upload
+   12  ls -l
+   13  chmod 700 git-upload 
+   14  ls -l
+   15  whereis git-upload
+   16  ./git-upload 
+   17  cat git-upload 
+   18  ./git-upload 20190919_15_00
+   19  ls -l
+   20  cd
+   21  ls
+   22  ls -l
+   23  rm -rf RTR105/
+   24  ls -l
+   25  git clone mkdir make directory
+   26  rmdir remove directorymkdir make directory
+   27  nano elemtar-c
+   28  git clone https://github.com/EE0711/
+   29  git clone https://github.com/EE0711/RTR105
+   30  cd RTR105/
+   31  cd
+   32  mv elemtar-c ./RTR105/
+   33  ls -l
+   34  cd RTR105/
+   35  ls -l
+   36  gcc elemtar-c 
+   37  nano elemtar-c 
+   38  nano elementar.c
+   39  gcc elementar.c
+   40  gcc elementar.c 
+   41  ls -l
+   42  gcc elementar.c 
+   43  ls -l
+   44  mkdir F
+   45  mv elementar.c F
+   46  ls -l
+   47  cd F
+   48  gcc elementar.c -o prg1
+   49  gcc elementar.c 
+   50  ls -l
+   51  nano elementar.c 
+   52  ls -l
+   53  nano elementar.c 
+   54  ls -l
+   55  rm elementar.c
+   56  ls -l
+   57  nano elementary.c 
+   58  gcc elementary.c -o prg2
+   59  ls -l
+   60  cat prg2
+   61  nano elementary.c 
+   62  gcc elementary.c -o prg3
+   63  ls -l
+   64  nano elementary.c 
+   65  cat elementary.c 
+   66  cp elementary.c hello.c
+   67  ls -l
+   68  nano hello.c 
+   69  gcc hello.c -o hello
+   70  nano hello.c 
+   71  gcc hello.c -o hello
+   72  ./hello
+   73  cat hello
+   74  cat hello.c
+   75  ./hello
+   76  nano hello
+   77  nano hello.c
+   78  ls -l
+   79  rm hello
+   80  ls -l
+   81  nano hello.c 
+   82  gcc hello.c -o nop
+   83  nano hello.c 
+   84  gcc hello.c -o nop
+   85  nano hello.c 
+   86  gcc hello.c -o nop
+   87  ./hello
+   88  ./hello.c
+   89  gcc hello.c -o nop
+   90  /nop
+   91  ls -l
+   92  ./nop
+   93  nano elementary.c 
+   94  nano hello.c 
+   95  gcc hello.c 
+   96  nano hello.c 
+   97  gcc hello.c 
+   98  ./nop 
+   99  nano hello.c 
+  100  gcc hello.c 
+  101  ls -l
+  102  ./a.out 
+  103  rm prg*
+  104  ls -l
+  105  rm a.out 
+  106  rm nop 
+  107  ls -l
+  108  cd RTR
+  109  cd
+  110  cd RTR105/
+  111  history > historyTRoll

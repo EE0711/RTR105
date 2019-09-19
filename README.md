@@ -29,3 +29,6 @@ rm                  remove  rm -fr (pilna mape)
 echo $PATH          parbaudit celjus  
 PATH=$PATH:~/       izveidot jaunu celju
 chmod               rwxrwxrwx izmainjas 1/0 katrā tikai pieraksta 111/100/000 buus 740 
+gcc fails.c -o *    (kkads name, ko palaizh ar ./*)
+git clone (links rep)
+
