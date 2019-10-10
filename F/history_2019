@@ -1,0 +1,236 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/EE0711/RTR105
+    5  ls -l
+    6  cd RTR105/
+    7  ls -l
+    8  cd F
+    9  ls -l
+   10  nano S.c
+   11  ls -l
+   12  nano bitwiseleft.c 
+   13  nano s.c
+   14  ls -l
+   15  nano s.c
+   16  pwd
+   17  ls -l
+   18  nano s.c
+   19  gcc s.c
+   20  ./a.out 
+   21  nano s.c
+   22  gcc s.c
+   23  ./a.out 
+   24  nano s.c
+   25  gcc s.c
+   26  nano s.c
+   27  gcc s.c
+   28  ./a.out 
+   29  nano s.c
+   30  gcc s.c
+   31  ./a.out 
+   32  nano s.c
+   33  gcc s.c
+   34  nano s.c
+   35  gcc s.c
+   36  ./a.out 
+   37  nano s.c
+   38  gcc s.c
+   39  nano s.c
+   40  gcc s.c
+   41  nano s.c
+   42  gcc s.c
+   43  nano s.c
+   44  gcc s.c
+   45  nano s.c
+   46  gcc s.c
+   47  nano s.c
+   48  gcc s.c
+   49  nano s.c
+   50  gcc s.c
+   51  ./a.out 
+   52  gcc s.c
+   53  nano s.c
+   54  cp s.c d.c
+   55  ls -l
+   56  nano d.c
+   57  gcc d.c
+   58  ./a.out 
+   59  nano d.c
+   60  gcc d.c
+   61  ./a.out 
+   62  nano d.c
+   63  gcc d.c
+   64  nano d.c
+   65  gcc d.c
+   66  ./a.out 
+   67  nano d.c
+   68  gcc d.c
+   69  nano d.c
+   70  gcc d.c
+   71  ./a.out 
+   72  nano d.c
+   73  gcc d.c
+   74  ./a.out 
+   75  1
+   76  5
+   77  ./a.out 
+   78  nano d.c
+   79  gcc d.c
+   80  nano d.c
+   81  gcc d.c
+   82  ./a.out 
+   83  nano d.c
+   84  ./a.out 
+   85  gcc d.c 
+   86  ./a.out 
+   87  nano d.c
+   88  gcc d.c 
+   89  ./a.out 
+   90  nano d.c
+   91  gcc d.c 
+   92  ./a.out 
+   93* 
+   94  ./a.out 
+   95  4
+   96  ./a.out 
+   97  nano d.c
+   98  cp s.c n.c
+   99  nano n.c
+  100  gcc n.c
+  101  nano n.c
+  102  gcc n.c
+  103  nano n.c
+  104  gcc n.c
+  105  nano n.c
+  106  gcc n.c
+  107  ./a.out 
+  108  nano n.c
+  109  gcc n.c
+  110* 
+  111  nano n.c
+  112  gcc n.c
+  113  nano n.c
+  114  gcc n.c
+  115  nano n.c
+  116  gcc n.c
+  117  nano n.c
+  118  gcc n.c
+  119  ./a.out 
+  120  nano n.c
+  121  gcc n.c
+  122  ./a.out 
+  123  nano n.c
+  124  gcc n.c
+  125  ./a.out 
+  126  nano n.c
+  127  gcc n.c
+  128  nano n.c
+  129  y
+  130  nano n.c
+  131  gcc n.c
+  132  nano n.c
+  133  gcc n.c
+  134  ./a.out 
+  135  nano n.c
+  136  gcc n.c
+  137  ./a.out 
+  138  nano n.c
+  139  gcc n.c
+  140  ./a.out 
+  141  nano n.c
+  142  gcc n.c
+  143  ./a.out 
+  144  nano n.c
+  145  gcc n.c
+  146  ./a.out 
+  147  nano n.c
+  148  gcc n.c
+  149  ./a.out 
+  150  gcc n.c
+  151  nano n.c
+  152  gcc n.c
+  153  ./a.out 
+  154  nano n.c
+  155  gcc n.c
+  156  nano n.c
+  157  gcc n.c
+  158  ./a.out 
+  159  nano n.c
+  160  gcc n.c
+  161  ./a.out 
+  162  nano n.c
+  163  ls -l
+  164  nano n.c
+  165  cp s.c f.c
+  166  ls -l
+  167  nano f.c
+  168  gcc f.c 
+  169  ./a.out 
+  170  nano f.c
+  171  gcc f.c 
+  172  ./a.out 
+  173  history
+  174  nano f.c
+  175  gcc f.c 
+  176  nano f.c
+  177  gcc f.c 
+  178  ./a.out 
+  179  nano f.c
+  180  gcc f.c 
+  181  ./a.out 
+  182  nano f.c
+  183  gcc f.c 
+  184  nano f.c
+  185  gcc f.c 
+  186  ./a.out 
+  187  cp f.c f2.c
+  188  nano f2.c
+  189  gcc f2.c 
+  190  ./a.out 
+  191  nano f2.c
+  192  gcc f2.c 
+  193  nano f2.c
+  194  gcc f2.c 
+  195  ./a.out 
+  196  nano f2.c
+  197  cp f2.c f3.c
+  198  nano f3.c 
+  199  nano f.c
+  200  cp f.c f4.c
+  201  nano f4.c 
+  202  gcc f4.c
+  203  ./a.out 
+  204  nano f4.c 
+  205  cp f2.c f5.c
+  206  nano f5.c
+  207  gcc f5.c 
+  208  ./a.out 
+  209  nano f5.c
+  210  ls -l
+  211  nano f5
+  212  nano f5.c
+  213  rm f5.c
+  214  nano f5-for.c 
+  215  gcc f5-for.c 
+  216  ./a.out 
+  217  3
+  218  nano f5-for.c 
+  219  cp f5-for.c LaiBeigtu.c
+  220  nano LaiBeigtu.c 
+  221  gcc LaiBeigtu.c 
+  222  ./a.out 
+  223  21
+  224  ./a.out 
+  225  nano LaiBeigtu.c 
+  226  gcc LaiBeigtu.c 
+  227  nano LaiBeigtu.c 
+  228  gcc LaiBeigtu.c 
+  229  nano LaiBeigtu.c 
+  230  gcc LaiBeigtu.c 
+  231  nano LaiBeigtu.c 
+  232  gcc LaiBeigtu.c 
+  233  history while/for/if
+  234  rm a.out 
+  235  history_2019
+  236  history > history_2019
