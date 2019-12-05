@@ -4,9 +4,9 @@
 int main()
 {
  
- float a=0.01, b=1.5*M_PI,x, delta_x=1.e-3, funkca, funkcb, funkcx, i = 0, k;
+ float a=0.01, b=1.5*M_PI,x, delta_x=1.e-3, funkca, funkcb, funkcx, i = 0,k;
  funkca = sin(a); funkcb = sin(b); 
- printf("Ciparu kam atrast x");
+ printf("Ciparu kam atrast x\n");
  scanf("%f", &k);
  if(funkca*funkcb>0)
   {
